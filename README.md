@@ -7,8 +7,8 @@ Currently known to work on:
  - Teensy 2.0++
 
 ## Breath of The Wild
-### repeater
-*Automatically spams the A button forever.  Great for item glitching and selling.*
+### Mash the A button `repeater.hex`
+*Automatically spams the A button forever.  Great for duped item glitches.*
 
 1. setup your game to where you are about to start pressing *A*
 2. go into the **Change Grip/Order** window on your Switch Homescreen and press nothing
